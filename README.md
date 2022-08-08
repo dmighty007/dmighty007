@@ -96,7 +96,7 @@ I-am-vishalmaurya@github
 |                                                                     Vishal's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![dibyendu's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dibyendumaity1999&theme=react-dark&hide_border=true&area=true) |
-| ![dibyendu's github stats](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&theme=algolia)              | 
+<!--| ![dibyendu's github stats](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&theme=algolia)              | -->
 | ![dibyendu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia)                    | 
 
     
