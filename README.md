@@ -93,11 +93,11 @@ I-am-vishalmaurya@github
 ## GitHub Stats
 
 
-<a href="https://github.com/dibyendumaity1999/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" />
 </a>
-<a href="https://github.com/dibyendumaity1999/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
 </a>
 
 
