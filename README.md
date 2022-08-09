@@ -1,8 +1,8 @@
 <h1 align="center">
 Hi, I'm Dibyendu!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>-->
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://gpvc.arturio.dev/dibyendumaity1999" alt="Profile views" align='right'/> <a href="https://github.com/dibyendumaity1999/dibyendumaity1999/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -96,15 +96,18 @@ dibyendumaity@github
     <a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
-    </a>
-</p>
-<p align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia" />
 </a>
 </p>
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
+    </a>
+
+</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <table style="border: none">
