@@ -100,7 +100,7 @@ I-am-vishalmaurya@github
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact" />
 </a>
 
 |                                                                     Vishal's Stats                                                                     |
