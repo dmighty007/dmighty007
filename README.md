@@ -93,29 +93,15 @@ I-am-vishalmaurya@github
 ## GitHub Stats
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" />
+<a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia&layout=compact" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact" />
 </a>
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-<!--| ![dibyendu's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dibyendumaity1999&theme=react-dark&hide_border=true&area=true) |-->
-<!--| ![dibyendu's github stats](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&theme=algolia)              | -->
-| ![dibyendu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia)                    | 
-
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact) |
-
-
 
 
 <table style="border: none">
