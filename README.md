@@ -94,7 +94,7 @@ dibyendumaity@github
 ## GitHub Stats
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia">
+    <a href="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia&layout=compact">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia&layout=compact" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact">
