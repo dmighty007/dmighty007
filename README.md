@@ -16,15 +16,15 @@ Hi, I'm Dibyendu!
 <pre>
 dibyendumaity@github
 -------------------------
-💻 I am a JRF at SNBNCBS
-📚 I have a Bachelors in Physics from Midnapore College.
-📝 I have a strong interest in Machine Learning and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about 
-🌟 Main languages: Python, C++, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+- 💻 I am a JRF at SNBNCBS
+- 📚 I have a Bachelors in Physics from Midnapore College.
+- 📝 I have a strong interest in Machine Learning and Artificial Intelligence
+- 🔭 Working on Deep Learning & Machine Learning
+- 🌱 Learning about 
+- 🌟 Main languages: Python, C++, JavaScript
+- 🚩 Interested in Full Stack Machine Learning Application development
+- 💖 In a complicated relationship with Neural Networks
+- 🎵 Love metal, lofi, jazz and soft music
 </pre>
 
 <hr>
