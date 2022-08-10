@@ -115,6 +115,32 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </td>
   </tr>
 </table>
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Visualisation-of-water-cages-&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=GRADE&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=MLDD&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Project_Uma&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=DM&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=PHY204&theme=tokyonight" />
+</a>
+
 
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
