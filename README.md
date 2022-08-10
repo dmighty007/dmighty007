@@ -14,7 +14,7 @@ Hi, I'm Dibyendu!
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>-->
 
-'''
+<fontsize=10>
 dibyendumaity@github
 -------------------------
 - 💻 I am a JRF at SNBNCBS
@@ -26,7 +26,7 @@ dibyendumaity@github
 - 🚩 Interested in Full Stack Machine Learning Application development
 - 💖 In a complicated relationship with Neural Networks
 - 🎵 Love metal, lofi, jazz and soft music
-'''
+</fontsize>
 <hr>
 
 
