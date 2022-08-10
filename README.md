@@ -85,11 +85,11 @@ dibyendumaity@github
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&custom_title=My%20GitHub%20Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dmighty007&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&custom_title=My%20GitHub%20Stats" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmighty007"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmighty007&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
