@@ -29,7 +29,7 @@ dibyendumaity@github
 ```
 <hr>
 
-<table width="100%" >
+<table width="95%" >
 
  <tr>
     <td width="60%">
