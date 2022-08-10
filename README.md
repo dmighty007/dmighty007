@@ -153,7 +153,7 @@ dibyendumaity@github
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&custom_title=My%20GitHub%20Stats" />
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999"/>
  </br>
