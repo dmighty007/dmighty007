@@ -17,16 +17,17 @@ Hi, I'm Dibyendu!
 ```
 dibyendumaity@github
 -------------------------
-* 💻 I am a JRF at SNBNCBS
-* 📚 I have a Bachelors in Physics from Midnapore College.
+* 💻 I am a JRF at SNBNCBS in the department of Chemical and Biological Sciences under the Supervison od Dr. Suman Chakrabarty..
+* 📚 I have a Bachelors in Physics from Midnapore College(Autonomous).
 * 📝 I have a strong interest in Machine Learning and Artificial Intelligence
-- 🔭 Learning Deep Learning & Machine Learning things..
-- 🌱 Various techniques of calculating free energy of reactions..
-- 🌟 Main languages: Python, C++, JavaScript
-- 🚩 Interested in Full Stack Machine Learning Application development
-- 💖 In a complicated relationship with Neural Networks
-- 🎵 Love any songs that sounds good...
+* 🔭 Learning Deep Learning & Machine Learning things..
+* 🌱 Various techniques of calculating free energies of reactions..
+* 🌟 Main languages: Python, C++, JavaScript
+* 🚩 Interested in Full Stack Machine Learning Application development
+* 💖 In a complicated relationship with Neural Networks
+* 🎵 Love any songs that sounds good...
 ```
+
 <hr>
 
 <table width="95%" >
