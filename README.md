@@ -20,12 +20,12 @@ dibyendumaity@github
 * 💻 I am a JRF at SNBNCBS
 * 📚 I have a Bachelors in Physics from Midnapore College.
 * 📝 I have a strong interest in Machine Learning and Artificial Intelligence
-- 🔭 Working on Deep Learning & Machine Learning
-- 🌱 Learning about 
+- 🔭 Learning Deep Learning & Machine Learning things..
+- 🌱 Various techniques of calculating free energy of reactions..
 - 🌟 Main languages: Python, C++, JavaScript
 - 🚩 Interested in Full Stack Machine Learning Application development
 - 💖 In a complicated relationship with Neural Networks
-- 🎵 Love metal, lofi, jazz and soft music
+- 🎵 Love any songs that sounds good...
 ```
 <hr>
 
@@ -98,9 +98,7 @@ dibyendumaity@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+If you have any questions about my projects or want me to colaborate, feel free to <a href="mailto:dibyendumaity1999@gmail.com">contact me through email</a> me.
 
   </td>
   <td width="50%" valign="top">
@@ -115,7 +113,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
   </td>
   </tr>
 </table>
-
+<!--
 ### My Projects ✨:
 <table style="border: none">
   <tr>
@@ -123,11 +121,9 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Visualisation-of-water-cages-&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/robofriends">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=GRADE&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/Picture-Sharing-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=MLDD&theme=tokyonight" />
 </a>
@@ -136,21 +132,16 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 <a href="https://github.com/Davekibh/Chat-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Project_Uma&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/Quiz-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=DM&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=PHY204&theme=tokyonight" />
 </a>
 </td>
   </tr>
 </table>
-
-------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+-->
 
 
 
