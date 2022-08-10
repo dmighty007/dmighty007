@@ -165,18 +165,6 @@ dibyendumaity@github
 </table>
 
 
-<p align="center">
-      <img  src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&custom_title=My%20GitHub%20Stats&theme=algolia&layout=compact"/>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia" />
-</p>
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact" />
-    </a>
-
-</p>
-
-
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
