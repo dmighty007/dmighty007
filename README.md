@@ -94,8 +94,8 @@ dibyendumaity@github
 ## GitHub Stats
 
 <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&locale=en&count_private=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" />
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dibyendumaity1999&theme=algolia&layout=compact" />
 </p>
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendumaity1999&langs_count=8&theme=algolia&layout=compact">
@@ -103,9 +103,6 @@ dibyendumaity@github
     </a>
 
 </p>
-<!--START_SECTION:waka-->
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-<!--END_SECTION:waka-->
 
 
 <table style="border: none">
