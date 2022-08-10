@@ -110,6 +110,7 @@ dibyendumaity@github
 
 </p>
 <!--START_SECTION:waka-->
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=dibyendumaity1999&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <!--END_SECTION:waka-->
 
 
