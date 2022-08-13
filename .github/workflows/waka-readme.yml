@@ -10,13 +10,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: dibyendumaity1999/dibyendumaity1999@master
+      - uses: dmighty007/dmighty007@master
         with:
           #WAKATIME_API_KEY: ${{ 174fdd6d-a87e-4bfa-859b-16ecfb8ac1a9 }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ 174fdd6d-a87e-4bfa-859b-16ecfb8ac1a9 }}
-          REPOSITORY: dibyendumaity1999/dibyendmaity1999
+          REPOSITORY: dmighty007/dmighty007
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
