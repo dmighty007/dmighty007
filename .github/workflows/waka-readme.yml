@@ -16,7 +16,7 @@ jobs:
 
     name: Update Readme with Metrics
 
-    runs-on: Garuda-Linux
+    runs-on: ubuntu-latest
 
     steps:
 
