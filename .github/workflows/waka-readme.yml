@@ -20,9 +20,8 @@ jobs:
 
     steps:
       - uses: lowlighter/metrics@latest 
-      - uses: dmighty007/metrics@main 
       - uses: dmighty007/dmighty007@main
-      
+
         with:
 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
