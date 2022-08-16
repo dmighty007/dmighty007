@@ -121,6 +121,10 @@ If you have any questions about my projects or want me to colaborate, feel free 
 </table>
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <!--
 ### My Projects ✨:
