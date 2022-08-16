@@ -19,8 +19,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - uses: dmighty007/dmighty007s@master
+      - uses: lowlighter/metrics@latest 
+      - uses: dmighty007/metrics@main 
+      - uses: dmighty007/dmighty007@main
+      
 
         with:
 
