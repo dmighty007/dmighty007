@@ -20,7 +20,7 @@ jobs:
 
     steps:
 
-      - uses: dmighty007/dmighty007s@master
+      - uses: dmighty007/waka-readme@master
 
         with:
 
