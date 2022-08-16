@@ -6,7 +6,7 @@ on:
 
     # Runs every 4 hours
 
-    - cron: '0 */4 * * *'
+    - cron: '0 */8 * * *'
 
   workflow_dispatch:
 
@@ -19,10 +19,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest 
-      - uses: dmighty007/metrics@main 
+
       - uses: dmighty007/dmighty007@main
-      
 
         with:
 
