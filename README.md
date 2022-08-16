@@ -119,6 +119,9 @@ If you have any questions about my projects or want me to colaborate, feel free 
   </td>
   </tr>
 </table>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!--
 ### My Projects ✨:
 <table style="border: none">
