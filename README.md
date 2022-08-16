@@ -24,7 +24,7 @@ dibyendumaity@github
 * 🌟 Main languages: Python, C++, JavaScript
 * 🚩 Interested in Full Stack Machine Learning Application development
 * 💖 In a complicated relationship with Neural Networks
-* 🎵 Love any songs that sounds good...
+* 🎵 Love any song that sounds good...
 ```
 
 <hr>
