@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: dmighty007/dmighty007@main
+      - uses: dmighty007/dmighty007@master
 
         with:
 
