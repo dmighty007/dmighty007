@@ -1,32 +1,15 @@
-FROM python:3.11.3-slim-bullseye
+FROM python:3.11-alpine
 
-ENV PYTHONFAULTHANDLER=1 \
-    PYTHONUNBUFFERED=1 \
-    PYTHONHASHSEED=random \
-    PYTHONDONTWRITEBYTECODE=1 \
-    # pip:
-    PIP_NO_CACHE_DIR=off \
-    PIP_DISABLE_PIP_VERSION_CHECK=on \
-    PIP_DEFAULT_TIMEOUT=100 \
-    # poetry:
-    POETRY_VERSION=2.0 \
-    POETRY_NO_INTERACTION=1 \
-    POETRY_CACHE_DIR='/var/cache/pypoetry' \
-    PATH="$PATH:/root/.local/bin"
+ENV PYTHONUNBUFFERED 1
+ENV PYTHONDONTWRITEBYTECODE 1
 
-# install poetry
-# RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-RUN pip install pipx
-RUN pipx install "poetry"
-#RUN pipx install "humanize"
-RUN pipx ensurepath
+RUN mkdir -p /dmighty007/assets
 
-# install dependencies
-COPY pyproject.toml poetry.lock /
-RUN poetry install --no-dev --no-root --no-interaction --no-ansi
-RUN poetry lock --no-update
-ADD requirements.txt /requirements.txt
-RUN apk add --no-cache g++ jpeg-dev zlib-dev libjpeg make git && pip3 install -r /requirements.txt
-# copy and run program
-ADD main.py /main.py
-CMD [ "poetry", "run", "python", "/main.py" ]
+ADD requirements.txt /dmighty007/requirements.txt
+RUN apk add --no-cache g++ jpeg-dev zlib-dev libjpeg make git && pip3 install -r /dmighty007/requirements.txt
+
+RUN git config --global user.name "readme-bot"
+RUN git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+ADD sources/* /
+ENTRYPOINT cd /dmighty007 && python3 main.py
