@@ -9,6 +9,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.29.0"
+humanize ="4.6"
 PyGithub = "^1.58"
 Faker = "^18.6.0"
 

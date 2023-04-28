@@ -25,7 +25,8 @@ RUN pipx ensurepath
 COPY pyproject.toml poetry.lock /
 RUN poetry install --no-dev --no-root --no-interaction --no-ansi
 RUN poetry lock --no-update
-RUN pip install humanize
+ADD requirements.txt /requirements.txt
+RUN apk add --no-cache g++ jpeg-dev zlib-dev libjpeg make git && pip3 install -r /requirements.txt
 # copy and run program
 ADD main.py /main.py
 CMD [ "poetry", "run", "python", "/main.py" ]
