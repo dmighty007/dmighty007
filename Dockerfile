@@ -9,7 +9,7 @@ ENV PYTHONFAULTHANDLER=1 \
     PIP_DISABLE_PIP_VERSION_CHECK=on \
     PIP_DEFAULT_TIMEOUT=100 \
     # poetry:
-    POETRY_VERSION=1.1.14 \
+    POETRY_VERSION=2.0 \
     POETRY_NO_INTERACTION=1 \
     POETRY_CACHE_DIR='/var/cache/pypoetry' \
     PATH="$PATH:/root/.local/bin"
@@ -18,6 +18,7 @@ ENV PYTHONFAULTHANDLER=1 \
 # RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 RUN pip install pipx
 RUN pipx install "poetry==$POETRY_VERSION"
+#RUN pipx install "poetry"
 RUN pipx ensurepath
 
 # install dependencies
