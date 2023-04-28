@@ -33,4 +33,6 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_LANGUAGE : true
 
