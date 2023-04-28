@@ -21,11 +21,7 @@ ENV PYTHONFAULTHANDLER=1 \
  
 # install poetry
 # RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-RUN apt-get update \
-&& apt-get install -y --no-install-recommends git \
-&& apt-get purge -y --auto-remove \
-&& rm -rf /var/lib/apt/lists/*
-EOF
+RUN apt-get update && apt-get install -y --no-install-recommends git && apt-get purge -y --auto-remove && rm -rf /var/lib/apt/lists/*
 RUN pip install pipx
 RUN pipx install "poetry"
 #RUN pipx install "poetry"
