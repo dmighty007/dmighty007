@@ -35,4 +35,6 @@ RUN poetry install --no-dev --no-root --no-interaction --no-ansi
 ADD main.py entrypoint.sh colors.json /
 
 # run final script
-CMD python3 /main.py && /entrypoint.sh
+#CMD python3 /main.py && /entrypoint.sh
+CMD [ "poetry", "run", "python", "/main.py" ]
+CMD /entrypoint.sh
