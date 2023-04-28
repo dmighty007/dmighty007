@@ -1,5 +1,8 @@
+import os
+os.environ["GIT_PYTHON_REFRESH"] = "quiet"
 from base64 import b64encode
 from os import environ, makedirs
+
 from os.path import dirname, join
 from random import choice
 from re import sub
