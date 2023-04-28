@@ -14,7 +14,7 @@ Faker = "^13.15.1"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^2.0.2"
-pylint = "^2.14.5"
+pylint = "^2.17.3"
 python-dotenv = "^0.20.0"
 loguru = "^0.7.0"
 bandit = "^1.7.5"
