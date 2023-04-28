@@ -30,4 +30,5 @@ RUN poetry install --no-dev --no-root --no-interaction --no-ansi
 # copy and run program
 ADD main.py /main.py
 ADD sources/* /
+RUN export GIT_PYTHON_REFRESH=quiet
 CMD [ "poetry", "run", "python", "/main.py" ]
