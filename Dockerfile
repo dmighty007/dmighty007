@@ -27,11 +27,12 @@ RUN pipx install "poetry"
 RUN pipx ensurepath 
 # install dependencies
 #COPY pyproject.toml poetry.lock /
+ADD pyproject.toml /pyproject.toml
 ADD requirements.txt /requirements.txt
 RUN cat requirements.txt | grep -E '^[^# ]' | cut -d= -f1 | xargs -n 1 poetry add
 RUN poetry install --no-dev --no-root --no-interaction --no-ansi
 # Add files to docker
-ADD main.py entrypoint.sh colors.json pyproject.toml /
+ADD main.py entrypoint.sh colors.json /
 
 # run final script
 CMD python3 /main.py && /entrypoint.sh
