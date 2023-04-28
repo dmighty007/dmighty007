@@ -23,6 +23,7 @@ RUN pipx ensurepath
 
 # install dependencies
 COPY pyproject.toml poetry.lock /
+RUN poetry add $( cat requirements.txt )
 RUN poetry install --no-dev --no-root --no-interaction --no-ansi
 
 # copy and run program
