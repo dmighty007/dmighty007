@@ -5,7 +5,7 @@ from random import choice
 from re import sub
 from shutil import copy, rmtree
 from string import ascii_letters
-
+os.environ["GIT_PYTHON_REFRESH"] = "quiet"
 from git import Repo, Actor
 from github import Github, AuthenticatedUser, Repository
 
