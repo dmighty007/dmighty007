@@ -26,6 +26,7 @@ COPY pyproject.toml poetry.lock /
 ADD requirements.txt /requirements.txt
 RUN cat requirements.txt | grep -E '^[^# ]' | cut -d= -f1 | xargs -n 1 poetry add
 RUN poetry install --no-dev --no-root --no-interaction --no-ansi
+RUN apt-get update && apt-get upgrade -y 
 RUN apt-get install -y git
 RUN git config --global user.name "readme-bot"
 RUN git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
