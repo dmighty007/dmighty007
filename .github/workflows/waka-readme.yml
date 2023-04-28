@@ -28,8 +28,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: dmighty007/dmighty007
           SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_TOTAL: true
 
