@@ -17,7 +17,7 @@ ENV PYTHONFAULTHANDLER=1 \
 # install poetry
 # RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 RUN pip install pipx
-RUN pipx install "poetry==$POETRY_VERSION"
+RUN pipx install "poetry"
 #RUN pipx install "poetry"
 RUN pipx ensurepath
 
