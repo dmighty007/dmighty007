@@ -18,13 +18,13 @@ ENV PYTHONFAULTHANDLER=1 \
 # RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 RUN pip install pipx
 RUN pipx install "poetry"
-#RUN pipx install "poetry"
+RUN pipx install "humanize"
 RUN pipx ensurepath
 
 # install dependencies
 COPY pyproject.toml poetry.lock /
 RUN poetry install --no-dev --no-root --no-interaction --no-ansi
-
+RUN poetry lock --no-update
 # copy and run program
 ADD main.py /main.py
 CMD [ "poetry", "run", "python", "/main.py" ]
