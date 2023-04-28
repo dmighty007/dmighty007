@@ -119,6 +119,11 @@ If you have any questions about my projects or want me to colaborate, feel free 
   </td>
   </tr>
 </table>
+
+<img
+  src="https://github.com/dmighty007/dmighty007/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--START_SECTION:waka-->
 
 ```text
