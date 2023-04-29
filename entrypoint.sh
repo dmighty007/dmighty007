@@ -9,7 +9,7 @@
 # constants
 RED='\033[0;31m' # Red color output for failed commands
 GREEN='\033[1;32m'
-clone_repo="https://github.com/${GITHUB_REPOSITORY}.git" # Repository URL
+clone_repo="https://github.com/${GITHUB_REPOSITORY}/${GITHUB_REPOSITORY}.git" # Repository URL
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" # remote repo address
 
 # Function to check success of a command
