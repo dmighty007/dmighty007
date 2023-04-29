@@ -121,10 +121,6 @@ If you have any questions about my projects or want me to colaborate, feel free 
 </table>
 
 <img
-  src="https://raw.githubusercontent.com/dmighty007/dmighty007/main/images/statfile1.svg"
-  alt="DM WakaTime Activity"
-/>
-<img
   src="https://raw.githubusercontent.com/dmighty007/dmighty007/main/images/statfile2.svg"
   alt="DM WakaTime Activity"
 />
