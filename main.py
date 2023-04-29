@@ -40,9 +40,9 @@ def make_graph(data: list, file: str):
     bars = ax[0].barh(y_pos,data[-1], height=0.5)
     ax[0].set_yticks(y_pos)
     ax[0].get_xaxis().set_ticks([])
-    ax[0].set_yticklabels(data[-2], color="#586069", fontname="Spectral",weight="bold", fontsize = 20)
+    ax[0].set_yticklabels(data[-2], color="#586069",weight="bold", fontsize = 20)
     #ax[0].set_title(this_range(data),fontname="Spectral",color=BLUE,weight="bold")
-    ax[0].set_title("Projects touched :", fontname="Spectral",color=BLUE,weight="bold")
+    ax[0].set_title("Projects touched :",color=BLUE,weight="bold")
     ax[0].invert_yaxis()
 
     ax[0].spines[['right', 'top']].set_visible(False)
@@ -70,7 +70,6 @@ def make_graph(data: list, file: str):
             va="center",
             ha="left",
             color="#586069",
-            fontname="Spectral",
             weight="bold",
             fontsize = 15
         )
@@ -104,12 +103,12 @@ def make_graph(data: list, file: str):
         horizontalalignment = {-1: "right", 1: "left"}[int(np.sign(x))]
         connectionstyle = f"angle,angleA=0,angleB={ang}"
         kw["arrowprops"].update({"connectionstyle": connectionstyle})
-        ax[1].annotate(data[0][i], xy=(x, y), xytext=(1.35*np.sign(x), 1.4*y),fontname="Spectral",color=BLUE,weight="bold", fontsize = 12,
+        ax[1].annotate(data[0][i], xy=(x, y), xytext=(1.35*np.sign(x), 1.4*y),color=BLUE,weight="bold", fontsize = 12,
                     horizontalalignment=horizontalalignment, **kw)
     ax[1].text(s = "Languages", x = 0, y = 0, horizontalalignment='center',verticalalignment='center', fontname="Spectral",color=BLUE,weight="bold", fontsize = 10)
-    ax[1].set_title("Languages exploited :", fontname="Spectral",color=BLUE,weight="bold")
+    ax[1].set_title("Languages exploited :",color=BLUE,weight="bold")
 
-    fig.suptitle(this_range(data),fontname="Spectral",color="Black",weight="bold", fontsize = 30)
+    fig.suptitle(this_range(data),color="Black",weight="bold", fontsize = 30)
     fig.tight_layout(pad = 0.5)
     plt.savefig(f"stat{file}.svg", bbox_inches="tight", transparent=True)
     print("new image generated")
