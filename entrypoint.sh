@@ -28,7 +28,7 @@ if [ -z "${INPUT_GITHUB_TOKEN}" ]; then
     echo -e "${RED}error: GITHUB_TOKEN not found"
     exit 1
 fi
-
+INPUT_BRANCH="main"
 # Cloning
 git clone --single-branch --branch "${INPUT_BRANCH}" "${clone_repo}"
 check_success "cloned branch:${INPUT_BRANCH}" "error: cloning failed"
@@ -39,7 +39,7 @@ repository="${reponame[1]}"
 check_success "repository name resolved ${repository}" "error: repository name resolution failed"
 
 # chek if image is present or not
-if [[ ! -f "stat.svg" ]]; then
+if [[ ! -f "statfile1.svg" ]]; then
     echo "${RED}error: file lost! existing"
     exit 1
 fi
@@ -49,14 +49,16 @@ if [[ ! -d "${repository}/images" ]]
 then
     mkdir -p "${repository}/images"
     check_success "images folder created" "error: cannot create folder"
-elif [[ -f "${repository}/images/stat.svg" ]]
+elif [[ -f "${repository}/images/statfile1.svg" ]]
 then
-    rm "${repository}/images/stat.svg" 
+    rm "${repository}/images/statfile1.svg" 
+    rm "${repository}/images/statfile2.svg" 
     check_success "old images removed" "error: cannot remove images"
 fi
 
 # updating images
-cp stat.svg "${repository}/images"
+cp statfile1.svg "${repository}/images"
+cp statfile2.svg "${repository}/images"
 check_success "new image copied" "error: cannot replace image"
 
 cd "${repository}" || exit
@@ -71,7 +73,8 @@ git remote -v
 git checkout "${INPUT_BRANCH}"
 
 # push to github
-git stage "images/stat.svg"
+git stage "images/statfile1.svg"
+git stage "images/statfile2.svg"
 git commit -m "${INPUT_COMMIT_MSG}"
 git pull
 git push publisher "${INPUT_BRANCH}"
