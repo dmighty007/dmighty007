@@ -39,6 +39,5 @@ ADD main.py entrypoint.sh colors.json /
 
 # run final script
 #CMD python3 /main.py && /entrypoint.sh
-RUN 
 CMD [ "poetry", "run", "python", "/main.py" ]
 CMD /entrypoint.sh
