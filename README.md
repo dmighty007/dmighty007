@@ -126,16 +126,6 @@ If you have any questions about my projects or want me to colaborate, feel free 
 />
 <!--START_SECTION:waka-->
 
-```text
-From: 21 April 2023 - To: 28 April 2023
-
-Total Time: 9 hrs 10 mins
-
-Python     9 hrs 4 mins    ████████████████████████▓   98.97 %
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
-
 <!--END_SECTION:waka-->
 <!--
 ### My Projects ✨:
