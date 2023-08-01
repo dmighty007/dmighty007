@@ -77,11 +77,16 @@ def make_graph(data: list, file: str):
 
     myexplode = np.zeros(len(data[2]))
     myexplode[1:] = 0.1
+    
     pie_data = np.array(data[2])
-    max_d = np.max(pie_data)
-    max_arg = np.argmax(pie_data)
+    try:
+        max_d = np.max(pie_data)
+        max_arg = np.argmax(pie_data)
+    except:
+        max_d = 100
+        max_arg = 0
     print(max_d, max_arg, pie_data)
-    if max_d > 85:
+    if max_d > 85 and max_d != 100:
         pie_data[max_arg] = 85
         diff = max_d - 85
         for i in range(len(pie_data)):
