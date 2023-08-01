@@ -15,7 +15,6 @@ import numpy as np
 import requests
 
 waka_key = os.getenv("INPUT_WAKATIME_API_KEY")
-waka_key= "waka_50c90df3-e72a-443a-b4bb-ad83522e4523"
 stats_range = os.getenv("INPUT_STATS_RANGE", "last_7_days")
 
 def this_range(dates: list) -> str:
