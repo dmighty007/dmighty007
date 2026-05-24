@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />
   <h1>Dibyendu Maity</h1>
-  <p>
-    <strong>Senior Research Fellow · Computational Chemistry · Molecular Dynamics · ML for Simulation</strong>
-  </p>
+  <p><strong>Senior Research Fellow</strong></p>
+  <p>Computational Chemistry · Molecular Dynamics · Enhanced Sampling · Scientific ML</p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=720&lines=Ph.D.+Research+Scholar+at+S.N.+Bose+National+Centre%3BMolecular+Dynamics+%7C+Free+Energy+Calculations%3BData-driven+Modeling+for+Phase+Identification%3BProperty+Prediction+%7C+Sampling+%7C+Scientific+ML" alt="Typing SVG" />
@@ -22,10 +21,13 @@
   </p>
 
   <p>
-    <a href="https://dmighty007.github.io">Portfolio</a> ·
-    <a href="https://scholar.google.com/citations?user=FkqKBRkAAAAJ&hl=en">Google Scholar</a> ·
-    <a href="https://orcid.org/0000-0002-6266-0923">ORCID</a> ·
-    <a href="https://github.com/dmighty007?tab=repositories">Repositories</a>
+    <a href="https://dmighty007.github.io"><strong>Portfolio</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=FkqKBRkAAAAJ&hl=en"><strong>Google Scholar</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://orcid.org/0000-0002-6266-0923"><strong>ORCID</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/dmighty007?tab=repositories"><strong>Repositories</strong></a>
   </p>
 </div>
 
@@ -136,15 +138,21 @@ See the full publication list on [Google Scholar](https://scholar.google.com/cit
 
 ## GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmighty007&theme=github_dark" alt="Dibyendu's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=dmighty007&theme=github-dark-blue&hide_border=true" alt="Dibyendu's GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmighty007&theme=github_dark" alt="Top languages by repository" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmighty007&theme=github_dark" alt="GitHub profile summary" />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmighty007&theme=github_dark" alt="Dibyendu's GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmighty007&theme=github_dark" alt="Top languages by repository" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmighty007&theme=github_dark" alt="GitHub profile summary" />
+    </td>
+  </tr>
+</table>
 
 ---
 
