@@ -1,90 +1,122 @@
-<div align="center">
-  <!-- Replace with a high-res, cinematic banner (e.g., a ray-traced PyMOL render of a molecular pathway) -->
-  <img src="https://via.placeholder.com/800x200/0a0a0a/ffffff?text=Computational+Science+%7C+AI+Systems" width="100%" alt="Header Banner" />
-</div>
+&lt;!-- 
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  GITHUB PROFILE README — Computational Science & AI Research   ║
+  ║  Designed for: Premium research portfolio presentation           ║
+  ║  Philosophy: Scientific identity &gt; noisy self-promotion          ║
+  ╚══════════════════════════════════════════════════════════════════╝
+--&gt;
 
-<br />
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2d5a87,100:4a90c6&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="header"/&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <h1>Dr. [Your Name]</h1>
-  <p><b>Computational Scientist &middot; AI/ML Engineer &middot; Open-Source Developer</b></p>
-  <p>Bridging enhanced sampling, scientific machine learning, and high-performance computing to discover rare-event pathways and phase transitions.</p>
-</div>
+&lt;h1 align="center"&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=A8D8FF&center=true&vCenter=true&width=600&lines=Computational+Scientist;Molecular+Dynamics+Researcher;AI%2FML+Engineer;Scientific+Software+Developer"&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=1e3a5f&center=true&vCenter=true&width=600&lines=Computational+Scientist;Molecular+Dynamics+Researcher;AI%2FML+Engineer;Scientific+Software+Developer"&gt;
+    &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=A8D8FF&center=true&vCenter=true&width=600&lines=Computational+Scientist;Molecular+Dynamics+Researcher;AI%2FML+Engineer;Scientific+Software+Developer" alt="typing header"&gt;
+  &lt;/picture&gt;
+&lt;/h1&gt;
 
-<br />
+&lt;p align="center"&gt;
+  &lt;em&gt;Codes and molecules are the things that essentially entertain me.&lt;/em&gt;&lt;br&gt;
+  &lt;sub&gt;Research Fellow · Computational Chemistry · Enhanced Sampling · Scientific AI&lt;/sub&gt;
+&lt;/p&gt;
 
----
-
-### ✦ Scientific Identity
-
-I design and deploy intelligent computational methods to map complex free energy landscapes. My work sits at the intersection of statistical mechanics and artificial intelligence, focusing on capturing molecular kinetics, nucleation phenomena, and complex host-guest binding through advanced sampling and deep learning architectures. 
-
-> *"Computing the pathways that nature takes, one collective variable at a time."*
-
----
-
-### ⚗️ Current Research Focus
-
-*   **Scientific Machine Learning:** Developing Graph Neural Networks (GNNs) and Variational Autoencoders (VAEs) for structural analysis and iterative path learning (PathNet).
-*   **Enhanced Sampling:** Formulating end-to-end protocols using well-tempered metadynamics, OPES, and Weighted Ensemble (WE) methods to calculate path-resolved kinetics.
-*   **Phase Transitions & Kinetics:** Investigating ice nucleation and growth (mW, TIP4P models) and the glass-forming behavior of binary mixtures.
-*   **HPC Ecosystems:** Managing highly optimized, GPU-accelerated molecular dynamics workflows across large-scale computing clusters.
-
----
-
-### 🔬 Featured Research & Software
-
-#### `PathGennieMD` 
-**AI-driven methodology for rare-event pathway discovery**
-A PyTorch-based framework coupling Graph Neural Networks and Variational Autoencoders to learn reaction coordinates and automate the discovery of complex transitions. 
-`PyTorch` &middot; `GNN-VAE` &middot; `PathCV`
-
-#### `Host-Guest Kinetics Protocols`
-**Elucidating binding pathways for Octa-Acid complexes**
-Implementation of complex collective variables (CVs) and binned weighted ensemble sampling to estimate thermodynamic and kinetic properties (e.g., $\Delta G^\ddagger$) of OAMe-G2 and OAH-G2 complexes.
-`OpenMM` &middot; `Plumed` &middot; `Weighted Ensemble`
-
-#### `Phase Transition Dynamics`
-**Crystallization and glass-formation sampling**
-High-performance simulations investigating nucleation events in Kob-Andersen mixtures (60:40 and 80:20) and supercooled water using advanced GPU-accelerated engines.
-`GROMACS` &middot; `LAMMPS` &middot; `OPES`
+&lt;p align="center"&gt;
+  &lt;a href="https://scholar.google.com/citations?user=YOUR_ID"&gt;&lt;img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"&gt;&lt;/a&gt;
+  &lt;a href="https://orcid.org/YOUR_ORCID"&gt;&lt;img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"&gt;&lt;/a&gt;
+  &lt;a href="https://your-website.github.io"&gt;&lt;img src="https://img.shields.io/badge/Portfolio-2d5a87?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
-### 📄 Selected Publications & Manuscripts
+## Identity
 
-*   **End-to-End Protocols for Path-Resolved Kinetics** 
-    *Manuscript in preparation for PNAS* 
-    Detailing a novel methodology combining PathGennie simulations with binned WE sampling. Includes publication-quality schematics and interactive methodologies.
-    
-*   **[Title of JCTC Paper / Prior Work]**
-    *Journal of Chemical Theory and Computation*
-    Foundational research establishing iterative path learners for chemical physics problems.
+I am a **Senior Research Fellow** and computational scientist working at the intersection of **molecular simulation**, **statistical mechanics**, and **machine learning**. My work focuses on developing algorithmic frameworks to extract kinetic observables from rare-event dynamics, building scientific software for enhanced sampling, and designing AI-native systems for molecular discovery.
+
+&gt; *Research is formalized curiosity. It is poking and prying with a purpose.*  
+&gt; — Zora Neale Hurston
 
 ---
 
-### ⚙️ Technical Stack & Infrastructure
+## Current Research Focus
 
-**Simulation Engines:** GROMACS, OpenMM, LAMMPS, Plumed
-**AI & Machine Learning:** PyTorch, Geometric Deep Learning (GNNs), VAEs
-**Languages:** Python, C++, Bash
-**HPC & Operations:** Spack, Arch Linux, CUDA, SLURM, MPI
-**Scientific Visualization:** PyMOL (Ray-traced), Matplotlib, HTML/Canvas interactive animations
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width="50%" valign="top"&gt;
+
+**Enhanced Sampling & Kinetics**  
+Developing path-resolved frameworks for weighted ensemble (WE) simulations to efficiently sample rare-event pathways and extract unbiased kinetic observables from complex free energy landscapes.
+
+**PathCV & Transition Pathways**  
+Designing collective variables that capture reaction coordinates and transition states in molecular kinetics, with applications to nucleation, protein folding, and conformational change.
+
+&lt;/td&gt;
+&lt;td width="50%" valign="top"&gt;
+
+**Scientific Machine Learning**  
+Building physics-informed neural networks and variational autoencoders for automated phase classification, order parameter discovery, and transferable solvation free energy prediction.
+
+**Scientific Visualization & Tooling**  
+Creating interactive visualization systems and AI-native presentation frameworks for computational science communication and reproducible research narratives.
+
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
-### 📊 Open Source Activity
+## Featured Research & Projects
 
-<div align="center">
-  <!-- Clean, minimal stats widget with a dark/transparent theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_HANDLE&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" />
-</div>
+### PathGennie
+*Direction-guided adaptive sampling for rare-event pathway generation*
+
+An algorithmic framework using ultrashort monitored trajectories to rapidly generate transition pathways in high-dimensional molecular systems. Integrates with OpenMM and PLUMED for seamless HPC deployment.
+
+`Python` `OpenMM` `PLUMED` `Enhanced Sampling` `J. Chem. Theory Comput. 2025`
 
 ---
 
-<div align="center">
-  <a href="mailto:your.email@example.com">Email</a> &middot;
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> &middot;
-  <a href="https://twitter.com/YOUR_HANDLE">Twitter/X</a> &middot;
-  <a href="https://your-portfolio-website.com">Portfolio Website</a>
-</div>
+### IceCoder
+*Variational autoencoder for automated ice polymorph identification*
+
+A deep learning system that identifies and classifies ice polymorphs directly from molecular simulation trajectories without manual feature engineering. Enables real-time structural analysis in large-scale MD simulations.
+
+`PyTorch` `VAE` `Molecular Dynamics` `Phase Classification` `J. Chem. Theory Comput. 2025`
+
+---
+
+### WE-Analysis Toolkit
+*Open-source framework for weighted ensemble simulation analysis*
+
+A modular Python ecosystem for post-processing weighted ensemble trajectories, computing rate constants, constructing Markov state models, and visualizing path ensembles with publication-ready figures.
+
+`Python` `NumPy` `SciPy` `MDAnalysis` `HPC` `Open Source`
+
+---
+
+### SolvML
+*Transferable solvation free energy prediction via graph neural networks*
+
+Comparative study of molecular representations and geometric deep learning methods for building accurate yet efficient implicit solvent models across chemical space.
+
+`PyTorch Geometric` `Graph Neural Networks` `Free Energy` `MBAR`
+
+---
+
+## Selected Publications
+
+| Year | Title | Venue | Links |
+|:---:|:---|:---|:---:|
+| 2025 | PathGennie: Direction-Guided Adaptive Sampling for Rare-Event Pathways | *J. Chem. Theory Comput.* | [📄](link) [💻](link) |
+| 2025 | IceCoder: Automated Ice Polymorph Classification with Variational Autoencoders | *J. Chem. Theory Comput.* | [📄](link) [💻](link) |
+| 2023 | Computational Study of Efficient Light Harvesting in Self-Assembled Organic Luminescent Nanotubes | *Chem. Sci.* | [📄](link) [💻](link) |
+| *In Prep.* | Path-Resolved Free Energy Frameworks for Weighted Ensemble Simulations | *In Preparation* | |
+| *In Prep.* | Graph Neural Networks for Transferable Solvation Free Energy Prediction | *In Preparation* | |
+
+&lt;p align="right"&gt;&lt;sub&gt;&lt;a href="https://scholar.google.com/citations?user=YOUR_ID"&gt;Full publication list →&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+
+---
+
+## Research Interests
