@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />
-  <h1>Dibyendu Maity</h1>
-  <p><strong>Senior Research Fellow</strong></p>
-  <p>Computational Chemistry · Molecular Dynamics · Enhanced Sampling · Scientific ML</p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=720&lines=Ph.D.+Research+Scholar+at+S.N.+Bose+National+Centre%3BMolecular+Dynamics+%7C+Free+Energy+Calculations%3BData-driven+Modeling+for+Phase+Identification%3BProperty+Prediction+%7C+Sampling+%7C+Scientific+ML" alt="Typing SVG" />
-  </a>
+  <img src="media/readme-header.svg" alt="Dibyendu Maity - Senior Research Fellow, Computational Chemistry, Molecular Dynamics, Enhanced Sampling, Scientific ML" width="100%" />
 
   <p>
     <a href="https://github.com/dmighty007">
@@ -102,37 +95,37 @@ See the full publication list on [Google Scholar](https://scholar.google.com/cit
 
 **Simulation and scientific computing**
 
-![GROMACS](https://img.shields.io/badge/GROMACS-0B5CAD?style=for-the-badge&logoColor=white)
-![OpenMM](https://img.shields.io/badge/OpenMM-2E7D32?style=for-the-badge&logoColor=white)
-![PLUMED](https://img.shields.io/badge/PLUMED-8A2BE2?style=for-the-badge&logoColor=white)
-![MDAnalysis](https://img.shields.io/badge/MDAnalysis-1F6FEB?style=for-the-badge&logoColor=white)
-![HPC](https://img.shields.io/badge/HPC%20%2F%20SLURM-444444?style=for-the-badge&logo=linux&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-0B5CAD?style=flat-square&logoColor=white)
+![OpenMM](https://img.shields.io/badge/OpenMM-2E7D32?style=flat-square&logoColor=white)
+![PLUMED](https://img.shields.io/badge/PLUMED-8A2BE2?style=flat-square&logoColor=white)
+![MDAnalysis](https://img.shields.io/badge/MDAnalysis-1F6FEB?style=flat-square&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC%20%2F%20SLURM-444444?style=flat-square&logo=linux&logoColor=white)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML, data, and visualization**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 **Web and tools**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -164,16 +157,16 @@ See the full publication list on [Google Scholar](https://scholar.google.com/cit
   </p>
 
   <a href="mailto:dibyendumaity1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://dmighty007.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://scholar.google.com/citations?user=FkqKBRkAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://orcid.org/0000-0002-6266-0923">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </div>
 
