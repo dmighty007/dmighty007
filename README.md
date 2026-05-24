@@ -6,7 +6,7 @@
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=720&lines=Ph.D.+Research+Scholar+at+S.N.+Bose+National+Centre;Molecular+Dynamics+%7C+Free+Energy+Calculations;Data-driven+Modeling+for+Phase+Identification;Property+Prediction+%7C+Sampling+%7C+Scientific+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=720&lines=Ph.D.+Research+Scholar+at+S.N.+Bose+National+Centre%3BMolecular+Dynamics+%7C+Free+Energy+Calculations%3BData-driven+Modeling+for+Phase+Identification%3BProperty+Prediction+%7C+Sampling+%7C+Scientific+ML" alt="Typing SVG" />
   </a>
 
   <p>
@@ -137,12 +137,13 @@ See the full publication list on [Google Scholar](https://scholar.google.com/cit
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmighty007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Dibyendu's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmighty007&theme=github-dark-blue&hide_border=true" alt="Dibyendu's GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dmighty007&theme=github_dark" alt="Dibyendu's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dmighty007&theme=github-dark-blue&hide_border=true" alt="Dibyendu's GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmighty007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmighty007&theme=github_dark" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmighty007&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
 ---
