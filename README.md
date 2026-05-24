@@ -1,162 +1,661 @@
-<h1 align="center">
-Hi, I'm Dibyendu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"> 
+# Scientific GitHub Profile README — Premium Research Portfolio Redesign
 
-  <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">-->
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <!--<img src="https://gpvc.arturio.dev/dibyendumaity1999" alt="Profile views" align='right'/> -->
- ![PV](https://komarev.com/ghpvc/?username=dmighty007&label=PROFILE+VIEWS) &nbsp;
- </h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Research+Fellow;Computational+Physics+and+Chemistry;AI%20|%20ML%20|%20DL%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=450&height=45"></a>
-</p>
+---
 
-<img align="left" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+# README.md
 
+````markdown
+<div align="center">
+
+# Dibyendu Maiti
+
+### Computational Scientist • Molecular Dynamics Researcher • AI Systems Engineer
+
+*Designing intelligent computational systems for molecular simulation, scientific discovery, and research tooling.*
+
+<br>
+
+[Research Interests](#research-focus) •
+[Selected Projects](#featured-projects) •
+[Publications](#selected-research--manuscripts) •
+[Tooling](#scientific-tooling) •
+[Contact](#connect)
+
+</div>
+
+---
+
+## Scientific Identity
+
+I work at the intersection of **computational biophysics**, **scientific machine learning**, and **research software engineering**.
+
+My research focuses on understanding molecular kinetics and rare-event dynamics using enhanced sampling methods, weighted ensemble simulations, path-based collective variables, and AI-assisted scientific systems.
+
+Alongside computational science research, I develop modern scientific tooling for:
+
+- molecular simulation workflows
+- scientific visualization
+- AI-native presentation systems
+- interactive research interfaces
+- computational automation pipelines
+- scientific software infrastructure
+
+---
+
+# Research Focus
+
+### Molecular Simulation & Statistical Mechanics
+- Enhanced sampling methods
+- Weighted ensemble simulations
+- Free energy landscape exploration
+- Rare-event kinetics
+- Transition pathway analysis
+- Path collective variables (PathCV)
+- Molecular dissociation mechanisms
+
+### Scientific AI & Intelligent Research Systems
+- AI-assisted scientific workflows
+- Agentic scientific tooling
+- Scientific reasoning systems
+- LLM-assisted research interfaces
+- Automated presentation generation
+- Intelligent visualization systems
+
+### Research Software Engineering
+- HPC-enabled workflows
+- Python scientific ecosystems
+- Reproducible computational pipelines
+- Interactive scientific applications
+- Simulation analysis frameworks
+- Full-stack scientific software
+
+---
+
+# Current Directions
+
+### Ongoing Research
+
+- Path-resolved weighted ensemble simulations
+- Mechanistic decomposition of molecular transition pathways
+- Wet/dry dissociation channel characterization
+- Physically meaningful path optimization methods
+- AI-native scientific presentation systems
+- Interactive computational science tooling
+- Intelligent research automation interfaces
+
+### Current Themes
+
+```text
+Enhanced Sampling • Weighted Ensemble • PathCV
+Computational Biophysics • Scientific AI
+Scientific Visualization • HPC Workflows
+Research Infrastructure • Molecular Kinetics
+````
+
+---
+
+# Featured Projects
+
+## Scientific Simulation & Research
+
+### SlideForge
+
+**AI-native scientific presentation system**
+
+A modern interactive presentation framework designed for scientific storytelling, automated slide generation, and research visualization.
+
+**Focus Areas**
+
+* AI-assisted slide generation
+* Scientific presentation workflows
+* Interactive slide systems
+* Research visualization
+* Modern presentation UX
+
+**Stack**
+`Python` `JavaScript` `HTML/CSS` `LLMs` `Interactive UI`
+
+---
+
+### Path-Based Enhanced Sampling Frameworks
+
+**Computational kinetics and transition pathway analysis**
+
+Development of physically relevant transition pathway refinement methods combining weighted ensemble simulations and path collective variable approaches.
+
+**Research Areas**
+
+* Transition path refinement
+* Weighted ensemble workflows
+* Kinetic decomposition
+* Metastable state characterization
+* Mechanistic pathway analysis
+
+**Stack**
+`Python` `MDAnalysis` `OpenMM` `NumPy` `Scientific HPC`
+
+---
+
+### Scientific Visualization & Analysis Systems
+
+**Modern interfaces for computational science**
+
+Building interactive scientific visualization systems for molecular simulations, trajectory analysis, and kinetic pathway exploration.
+
+**Focus Areas**
+
+* Interactive visualization
+* Simulation analysis
+* Scientific UI systems
+* Computational dashboards
+* Publication-quality rendering
+
+**Stack**
+`Python` `Plotly` `Matplotlib` `Web Technologies`
+
+---
+
+### AI-Assisted Research Tooling
+
+**Intelligent systems for computational science**
+
+Designing AI-assisted interfaces and workflows for accelerating scientific research, literature understanding, and computational experimentation.
+
+**Areas**
+
+* Agentic scientific systems
+* Research automation
+* Scientific summarization
+* Knowledge extraction
+* AI-native interfaces
+
+**Stack**
+`Python` `LLMs` `Vector Systems` `Automation`
+
+---
+
+# Selected Research & Manuscripts
+
+## Current Research Themes
+
+### Path-Resolved Molecular Kinetics
+
+Investigating molecular dissociation pathways using weighted ensemble simulations combined with path-based collective variable refinement strategies.
+
+### Enhanced Sampling Methodologies
+
+Developing efficient approaches for sampling rare-event transitions and mechanistic decomposition of molecular pathways.
+
+### Scientific AI Systems
+
+Building intelligent computational systems for scientific communication, visualization, and workflow automation.
+
+---
+
+## Ongoing Manuscript Directions
+
+* Weighted ensemble + PathCV hybrid methodologies
+* Pathway-specific kinetic decomposition
+* Dry/wet molecular dissociation mechanisms
+* Mechanistic analysis of host–guest systems
+* AI-assisted scientific presentation workflows
+* Intelligent research software systems
+
+---
+
+## Academic Profiles
+
+* Google Scholar
+* ORCID
+* ResearchGate
+* Semantic Scholar
+
+---
+
+# Scientific Tooling
+
+## Languages
+
+`Python` `C/C++` `JavaScript` `Bash`
+
+## Molecular Simulation
+
+`OpenMM` `GROMACS` `MDAnalysis` `PLUMED`
+
+## Scientific Computing
+
+`NumPy` `SciPy` `Pandas` `Scikit-learn`
+
+## Visualization
+
+`Matplotlib` `Plotly` `PyMOL` `Interactive Web UI`
+
+## AI & Automation
+
+`LLMs` `Ollama` `Agentic Systems` `Workflow Automation`
+
+## Infrastructure
+
+`Linux` `HPC Systems` `Git` `Docker`
+
+---
+
+# Open Source & Engineering
+
+I enjoy building scientific software that combines:
+
+* computational rigor
+* modern interface design
+* scientific storytelling
+* automation systems
+* interactive visualization
+* reproducible infrastructure
+
+My repositories primarily explore:
+
+* simulation workflows
+* scientific visualization
+* AI-assisted research systems
+* scientific presentation tooling
+* computational automation
+* modern research interfaces
+
+---
+
+# Research Philosophy
+
+> Scientific software should not only compute accurately — it should communicate insight clearly.
+
+I believe modern computational science requires:
+
+* reproducible workflows
+* elegant scientific interfaces
+* interpretable computational systems
+* intelligent tooling
+* interactive visualization
+* human-centered research infrastructure
+
+The future of scientific computing lies in the convergence of:
+
+**simulation • visualization • intelligence • interaction**
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dmighty007&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmighty007&layout=compact&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dmighty007&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# Current Work
+
+### Presently Exploring
+
+* AI-native scientific communication
+* Molecular transition pathway discovery
+* Intelligent scientific interfaces
+* Research workflow automation
+* Simulation visualization systems
+* Computational storytelling
+* Interactive scientific presentation engines
+
+---
+
+# Beyond Research
+
+Outside active research, I enjoy:
+
+* scientific visualization design
+* interface experimentation
+* computational aesthetics
+* cinematic presentation systems
+* research workflow optimization
+* open-source infrastructure building
+
+---
+
+# Connect
+
+<div align="left">
+
+**Academic**
+
+* Google Scholar
+* ORCID
+* ResearchGate
+
+**Professional**
+
+* GitHub
+* LinkedIn
+* Personal Website
+
+**Research Interests**
+
+* Computational Biophysics
+* Molecular Simulation
+* Scientific AI
+* Research Software Engineering
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building intelligent systems for scientific discovery."
+
+</div>
 ```
-dibyendumaity@github
--------------------------
-* 💻 Currently working as a SRF under the guidance of Dr. Suman Chakrabarty at SNBNCBS, in the Department of Chemical and Biological Sciences.
-* 📚 Earned a bachelor's degree in Physics from Midnapore College (Autonomous).
-* 📝 Passionate about Artificial Intelligence and Machine Learning.
-* 🔭 Dedicated to mastering Deep Learning and Machine Learning.
-* 🌱 Exploring various techniques for calculating free energies of reactions.
-* 🌟 Proficient in Python, C++, and JavaScript.
-* 🚩 Enthusiastic about developing Full Stack Machine Learning Applications.
-* 💖 In a complex yet rewarding relationship with Neural Networks.
-* 🎵 Avid listener of good music.
+
+---
+
+# Design Rationale
+
+## 1. Cinematic Hero Section
+
+The redesign begins with a restrained, editorial-style hero section instead of a badge-heavy GitHub template.
+
+### Why this works
+
+* establishes scientific identity immediately
+* creates visual breathing room
+* feels like a modern research lab homepage
+* communicates seniority and direction quickly
+* avoids “developer template” aesthetics
+
+The typography hierarchy follows:
+
+1. Name
+2. Scientific identity
+3. Mission statement
+4. Minimal navigation
+
+This creates an Apple/Linear-style visual rhythm.
+
+---
+
+# Visual Hierarchy Strategy
+
+## Tier 1 — Identity
+
+* Name
+* Scientific role
+* Research mission
+
+## Tier 2 — Research Narrative
+
+* Research focus
+* Current directions
+* Scientific domains
+
+## Tier 3 — Credibility
+
+* Featured projects
+* Publications/manuscripts
+* Tooling stack
+
+## Tier 4 — Metrics & Social
+
+* GitHub stats
+* Contact links
+* Activity graph
+
+This ordering transforms the profile from:
+
+> “developer README”
+
+to:
+
+> “scientific research identity page”
+
+---
+
+# Recommended GitHub Widgets
+
+## Keep Minimal
+
+### Recommended
+
+* GitHub Readme Stats
+* Top Languages
+* Contribution Activity Graph
+
+### Optional
+
+* WakaTime (only if visually restrained)
+* Visitor count (subtle only)
+* Publication counter
+
+### Avoid
+
+* massive badge collections
+* animated GIF overload
+* rainbow metrics
+* trophy spam
+* excessive streak widgets
+
+---
+
+# Banner/Header Recommendations
+
+## Option 1 — Scientific Minimal
+
+Dark cinematic banner featuring:
+
+* molecular trajectories
+* volumetric density fields
+* kinetic pathways
+* subtle grid overlays
+* restrained typography
+
+### Visual Direction
+
+Think:
+
+* scientific cinema
+* Nature journal visuals
+* modern AI lab branding
+
+---
+
+## Option 2 — Interactive Simulation Style
+
+A stylized simulation frame containing:
+
+* weighted ensemble pathways
+* transition networks
+* free-energy contours
+* dynamic particle systems
+
+Minimal labeling.
+
+---
+
+## Option 3 — Editorial Typography Banner
+
+Pure typography:
+
+```text
+Computational Scientist
+Molecular Dynamics
+Scientific AI Systems
 ```
-<hr>
 
-<table width="100%" >
+with subtle gradients and whitespace.
 
- <tr>
-    <td width="50%">
-     
-## 🛠️ Skills
+Extremely premium aesthetic.
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-#### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
+---
 
+# Typography Rhythm
 
-#### Database
+## Large Headers
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+Use only for:
 
-#### Tools and Technologies
+* identity
+* major sections
 
+## Medium Headers
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)
+Use for:
 
+* projects
+* research domains
+* publication themes
 
-#### Data Analytics 
+## Short Paragraphs
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-     
-</td>
-    <td>
-  
-## 📄📜 Stats
+Keep blocks readable.
+Avoid long walls of text.
 
+---
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dmighty007&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&custom_title=My%20GitHub%20Stats" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmighty007"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmighty007&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
-</table>
+# Markdown Architecture
 
+The README follows:
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+```text
+Identity
+↓
+Research Narrative
+↓
+Featured Work
+↓
+Publications
+↓
+Technical Systems
+↓
+Philosophy
+↓
+Metrics
+↓
+Contact
+```
 
-## Let's Work on Your Project Together!
+This mirrors modern:
 
-If you have any questions about my projects or want me to colaborate, feel free to <a href="mailto:dibyendumaity1999@gmail.com">contact me through email</a> me.
+* research portfolios
+* AI lab websites
+* scientific homepages
+* technical founder portfolios
 
-  </td>
-  <td width="50%" valign="top">
+---
 
-## It's not perfect, isn't it?
+# Repository Showcase Strategy
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+Pin repositories strategically.
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+## Recommended Structure
 
-  </td>
-  </tr>
-</table>
+### Research Infrastructure
 
-<img
-  src="https://raw.githubusercontent.com/dmighty007/dmighty007/main/images/statfile2.svg"
-  alt="DM WakaTime Activity"
-/>
-<!--START_SECTION:waka-->
+* simulation frameworks
+* PathCV tools
+* WE workflows
 
-<!--END_SECTION:waka-->
-<!--
-### My Projects ✨:
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">  
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Visualisation-of-water-cages-&theme=tokyonight" />
-</a>
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=GRADE&theme=tokyonight" />
-</a>
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=MLDD&theme=tokyonight" />
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=Project_Uma&theme=tokyonight" />
-</a>
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=DM&theme=tokyonight" />
-</a>
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dibyendumaity1999&repo=PHY204&theme=tokyonight" />
-</a>
-</td>
-  </tr>
-</table>
--->
+### Scientific Applications
 
+* visualization systems
+* analysis pipelines
+* interactive tools
 
+### AI Systems
 
+* agentic workflows
+* scientific AI tooling
+* automation systems
 
+### Presentation/UX
+
+* SlideForge
+* scientific presentation engines
+* research communication systems
+
+---
+
+# Suggested Future Enhancements
+
+## 1. Custom SVG Header
+
+A subtle animated scientific banner.
+
+---
+
+## 2. Publication Feed
+
+Auto-update latest publications/preprints.
+
+---
+
+## 3. Interactive Research Timeline
+
+Add:
+
+* publications
+* major projects
+* milestones
+* software releases
+
+---
+
+## 4. Dynamic Research Focus Panel
+
+Auto-update current interests from a JSON/YAML source.
+
+---
+
+## 5. Scientific Contribution Dashboard
+
+Custom dashboard showing:
+
+* simulations
+* datasets
+* papers
+* repositories
+* visualizations
+
+---
+
+# Final Design Philosophy
+
+The redesign intentionally avoids:
+
+* noisy GitHub aesthetics
+* badge spam
+* template-like layouts
+* excessive emoji usage
+* cluttered sections
+* generic developer branding
+
+Instead, it emphasizes:
+
+* scientific credibility
+* computational research identity
+* editorial visual hierarchy
+* modern AI-lab aesthetics
+* clean storytelling
+* restrained sophistication
+
+The result is a profile that feels closer to:
+
+* a modern research institute page
+* an AI scientist portfolio
+* a computational physics lab homepage
+* a premium scientific engineering identity
+
+rather than a traditional GitHub README.
