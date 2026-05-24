@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="media/readme-header.svg" alt="Dibyendu Maity - Senior Research Fellow, Computational Chemistry, Molecular Dynamics, Enhanced Sampling, Scientific ML" width="100%" />
+  <h1>Dibyendu Maity</h1>
+  <h3>Senior Research Fellow</h3>
+  <p>
+    <strong>Computational Chemistry</strong> ·
+    <strong>Molecular Dynamics</strong> ·
+    <strong>Enhanced Sampling</strong> ·
+    <strong>Scientific ML</strong>
+  </p>
+  <p>
+    <em>Building data-driven tools for molecular simulation, rare-event pathways, phase identification, and free energy prediction.</em>
+  </p>
 
   <p>
     <a href="https://github.com/dmighty007">
