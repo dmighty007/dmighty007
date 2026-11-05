@@ -15,8 +15,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Skip update when WakaTime key is unavailable
+        if: ${{ secrets.WAKATIME_API_KEY == '' }}
+        run: echo "WAKATIME_API_KEY is not configured. Skipping metrics update."
+
       #- uses: actions/checkout@v3
-      - uses: dmighty007/dmighty007@main
+      - if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        uses: dmighty007/dmighty007@main
 
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
